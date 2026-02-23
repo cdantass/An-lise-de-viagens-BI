@@ -8,5 +8,5 @@ Mapa: permite explorar os destinos/cidades visitadas e a quantidade de viagens, 
 
 Navegação entre páginas feita por botões (Home/Mapa).
 
-<img width="386" height="131" alt="images" src="https://github.com/user-attachments/assets/dcf4a37c-eada-4a3c-a03c-c90a6f687660" />
+<img width="300" height="100" alt="images" src="https://github.com/user-attachments/assets/dcf4a37c-eada-4a3c-a03c-c90a6f687660" />
 
