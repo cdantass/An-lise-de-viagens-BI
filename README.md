@@ -99,35 +99,55 @@ Orçamento Total | Valor Utilizado | Saldo Disponível | % de Saldo Restante
 
 Permite monitorar comprometimento financeiro, identificar risco de estouro orçamentário e avaliar eficiência na alocação dos recursos.
 
-📁 Fonte de Dados
-
-Os dados utilizados são provenientes de planilha estruturada contendo:
-
-Nome
-
-Área alocada
-
-Destino da viagem
-
-Data da viagem
-
-fundo
-
-Valor da passagem
-
-Situação
-
-Os dados foram tratados no Power Query para:
-
-Ajuste de tipos
-
-Padronização de campos
-
-Organização para análise
-
 ----------------------------------------------------------------------
+🗺️ *Página Mapa*
 
 <img width="1323" height="742" alt="image" src="https://github.com/user-attachments/assets/8ce03fc7-84ae-4f05-a7b3-c35b381de644" />
 
+A página Mapa mostra, de forma visual e intuitiva, para onde as viagens corporativas estão sendo direcionadas.
+
+Em vez de olhar apenas números em tabelas, aqui é possível enxergar os gastos distribuídos pelo território. Isso ajuda a entender quais cidades concentram mais deslocamentos e como o orçamento está sendo utilizado em cada região.
+
+A ideia é simples: transformar dados financeiros em uma visão mais clara e contextualizada.
+
+🌍 O que o mapa mostra
+
+Cada bolha representa uma cidade de destino.
+
+Quanto maior a bolha, maior o número de viagens realizadas
+
+Ao selecionar uma cidade, é possível ver informações detalhadas
+
+Os dados se ajustam conforme os filtros aplicados
+
+Isso permite identificar rapidamente onde há maior concentração de viagens e onde o orçamento está sendo mais consumido.
+
+💰 Informações por cidade
+
+Ao clicar em um destino, são exibidos:
+
+Quantidade de viagens realizadas
+
+Valor total gasto
+
+Fundo responsável pelo pagamento
+
+Uma breve descrição do principal aeroporto da cidade
+
+Essa última parte adiciona contexto ao dado, ajudando a entender a importância estratégica daquele destino.
+
+🎯 Por que essa análise é importante?
+
+A visualização geográfica facilita:
+
+Identificar padrões de deslocamento
+
+Comparar regiões com maior consumo de orçamento
+
+Entender possíveis concentrações estratégicas
+
+Apoiar decisões sobre alocação de recursos
+
+Mais do que mostrar gastos, o mapa ajuda a contar a história por trás das viagens.
 
 
