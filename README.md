@@ -11,38 +11,29 @@ Navegação entre páginas feita por botões (Home/Mapa).
 <img width="300" height="100" alt="images" src="https://github.com/user-attachments/assets/dcf4a37c-eada-4a3c-a03c-c90a6f687660" />
 
 ----------------------------------------------------------------------
-🏠 Página Inicial (HOME)
+🏠 *Página Inicial (HOME)*
 <img width="1341" height="752" alt="image" src="https://github.com/user-attachments/assets/67dad2ea-2d14-46c0-88d7-54a289d63da1" />
 
-Na primeira tela do dashboard temos uma visão executiva consolidada das informações.
+A página Home concentra uma visão executiva e consolidada do cenário financeiro das viagens corporativas.
+Ela foi estruturada para permitir análise rápida do orçamento, identificação de desvios e apoio direto à tomada de decisão.
 
-📌 Gráfico de Barras – Total gasto por área alocada
+📌 Gráfico de Barras — Total gasto por Área Alocada
 
-O gráfico apresenta quanto cada área da empresa está gastando com passagens aéreas, como:
+O gráfico apresenta a distribuição dos gastos com passagens aéreas por área da empresa (TI, Atendimento, Marketing, Vendas, Operações, Financeiro, RH, Jurídico e Compras).
 
-TI
+Essa visualização permite:
 
-Atendimento
+Identificar quais setores concentram maior consumo de orçamento
 
-Marketing
+Comparar níveis de despesa entre áreas
 
-Vendas
+Detectar possíveis excessos ou padrões fora do esperado
 
-Operações
+É uma análise voltada para controle interno e eficiência operacional.
 
-Financeiro
+🥧 Gráfico de Pizza — Despesas por Fonte
 
-RH
-
-Jurídico
-
-Compras
-
-Essa visualização permite identificar rapidamente quais setores concentram maiores despesas.
-
-🥧 Gráfico de Pizza – Despesas por fonte
-
-O gráfico de pizza mostra a distribuição dos gastos por fonte de recurso, sendo elas:
+Exibe como os gastos estão distribuídos entre os fundos disponíveis:
 
 Fundo Operacional
 
@@ -50,46 +41,42 @@ Fundo de Projetos
 
 Fundo de Treinamento
 
-Aqui é possível analisar qual fundo está sendo mais utilizado e qual possui maior representatividade nos gastos totais.
+Com essa visão, é possível:
 
-📊 Indicadores (KPIs)
+Entender qual fundo está financiando a maior parte das viagens
 
-O dashboard apresenta dois indicadores estratégicos:
+Avaliar equilíbrio na utilização dos recursos
 
-Total Gasto: Consolidação geral dos gastos com passagens aéreas.
+Identificar dependência excessiva de uma fonte específica
 
-Saldo Disponível: Valor restante considerando o orçamento total dos fundos.
+📊 Indicadores Estratégicos (KPIs)
 
-Esses indicadores oferecem uma visão executiva imediata da situação financeira.
+A Home apresenta indicadores financeiros consolidados:
+
+Total Gasto: soma geral das despesas com passagens
+
+Saldo Disponível: valor restante do orçamento
+
+Percentual de Saldo: indicador proporcional da saúde financeira
+
+Esses KPIs oferecem uma leitura rápida da situação orçamentária, facilitando decisões imediatas.
 
 📋 Tabela Gerencial por Fundo
 
-A tabela detalha informações financeiras por fundo, contendo:
+A tabela detalha, para cada fundo:
 
 Orçamento total
 
-Total gasto
+Valor já utilizado
 
 Saldo disponível
 
-Percentual de saldo disponível
+Percentual de saldo restante
 
-Com isso, é possível:
+Essa estrutura permite:
 
-Avaliar eficiência no uso do orçamento
+Monitorar nível de comprometimento financeiro
 
-Identificar fundos com maior comprometimento financeiro
+Identificar riscos de estouro orçamentário
 
-Monitorar níveis críticos de saldo
-
-⚙️ Interatividade
-
-O dashboard possui filtros e botões de navegação que permitem:
-
-Selecionar fundos específicos
-
-Analisar dados de forma segmentada
-
-Explorar diferentes perspectivas financeiras
-
-Isso torna a análise dinâmica e orientada à tomada de decisão.
+Avaliar eficiência na alocação dos recursos
