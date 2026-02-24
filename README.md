@@ -1,4 +1,4 @@
-<img width="800" height="480" alt="image" src="https://github.com/user-attachments/assets/03cc1032-f615-403b-8f95-4ceb4411f1c9" /><img width="800" height="480" alt="image" src="https://github.com/user-attachments/assets/03cc1032-f615-403b-8f95-4ceb4411f1c9" />Projeto desenvolvido com base em uma demanda corporativa real de controle orçamentário para viagens, com foco em análise financeira e suporte à tomada de decisão, e consigo mostrar minha capacidade de transformar dados em informações fáceis de entender.
+Projeto desenvolvido com base em uma demanda corporativa real de controle orçamentário para viagens, com foco em análise financeira e suporte à tomada de decisão, e consigo mostrar minha capacidade de transformar dados em informações fáceis de entender.
 
 Ele serve para acompanhar e comparar gastos com passagens versus orçamento, identificando onde o dinheiro está sendo consumido:
 
