@@ -1,4 +1,4 @@
-<img width="1341" height="752" alt="image" src="https://github.com/user-attachments/assets/acb026fa-f047-482f-b556-b2a1d3563538" />Projeto em Power BI feito para portfólio, Ideia do BI é um cenário real de controle de despesas com viagens, e consigo mostrar minha capacidade de transformar dados em informações fáceis de entender.
+Projeto em Power BI feito para portfólio, Ideia do BI é um cenário real de controle de despesas com viagens, e consigo mostrar minha capacidade de transformar dados em informações fáceis de entender.
 
 Ele serve para acompanhar e comparar gastos com passagens versus orçamento, identificando onde o dinheiro está sendo consumido:
 
