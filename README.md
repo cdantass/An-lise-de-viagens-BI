@@ -17,6 +17,7 @@ Navegação entre páginas feita por botões (Home/Mapa).
 A Home apresenta uma visão executiva e consolidada do cenário financeiro das viagens corporativas, permitindo análise rápida do orçamento, identificação de desvios e suporte direto à tomada de decisão.
 
 📊 Análises Principais
+
 📌 Total gasto por Área Alocada
 
 O gráfico de barras mostra a distribuição das despesas com passagens aéreas entre as áreas:
