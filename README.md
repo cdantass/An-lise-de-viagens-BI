@@ -14,36 +14,40 @@ Navegação entre páginas feita por botões (Home/Mapa).
 🏠 *Página Inicial (HOME)*
 <img width="1341" height="752" alt="image" src="https://github.com/user-attachments/assets/67dad2ea-2d14-46c0-88d7-54a289d63da1" />
 
-A página Home concentra uma visão executiva e consolidada do cenário financeiro das viagens corporativas.
-Ela foi estruturada para permitir análise rápida do orçamento, identificação de desvios e apoio direto à tomada de decisão.
+A Home concentra uma visão executiva e consolidada do cenário financeiro das viagens corporativas.
+Foi estruturada para permitir:
+
+Análise rápida do orçamento
+
+Identificação de desvios
+
+Apoio direto à tomada de decisão
 
 📌 Gráfico de Barras — Total gasto por Área Alocada
 
-O gráfico apresenta a distribuição dos gastos com passagens aéreas por área da empresa (TI, Atendimento, Marketing, Vendas, Operações, Financeiro, RH, Jurídico e Compras).
+Apresenta a distribuição dos gastos com passagens aéreas por área:
 
-Essa visualização permite:
+TI | Atendimento | Marketing | Vendas | Operações | Financeiro | RH | Jurídico | Compras
 
-Identificar quais setores concentram maior consumo de orçamento
+🔎 Permite:
+
+Identificar setores com maior consumo de orçamento
 
 Comparar níveis de despesa entre áreas
 
-Detectar possíveis excessos ou padrões fora do esperado
+Detectar excessos ou padrões fora do esperado
 
-É uma análise voltada para controle interno e eficiência operacional.
+➡ Análise voltada para controle interno e eficiência operacional.
 
 🥧 Gráfico de Pizza — Despesas por Fonte
 
-Exibe como os gastos estão distribuídos entre os fundos disponíveis:
+Mostra a distribuição dos gastos entre os fundos:
 
-Fundo Operacional
+Fundo Operacional | Fundo de Projetos | Fundo de Treinamento
 
-Fundo de Projetos
+🔎 Permite:
 
-Fundo de Treinamento
-
-Com essa visão, é possível:
-
-Entender qual fundo está financiando a maior parte das viagens
+Entender qual fundo financia a maior parte das viagens
 
 Avaliar equilíbrio na utilização dos recursos
 
@@ -51,32 +55,24 @@ Identificar dependência excessiva de uma fonte específica
 
 📊 Indicadores Estratégicos (KPIs)
 
-A Home apresenta indicadores financeiros consolidados:
+Total Gasto → Soma geral das despesas com passagens
 
-Total Gasto: soma geral das despesas com passagens
+Saldo Disponível → Valor restante do orçamento
 
-Saldo Disponível: valor restante do orçamento
+% de Saldo → Indicador proporcional da saúde financeira
 
-Percentual de Saldo: indicador proporcional da saúde financeira
-
-Esses KPIs oferecem uma leitura rápida da situação orçamentária, facilitando decisões imediatas.
+➡ Oferecem uma leitura rápida e objetiva da situação orçamentária.
 
 📋 Tabela Gerencial por Fundo
 
-A tabela detalha, para cada fundo:
+Para cada fundo, são apresentados:
 
-Orçamento total
+Orçamento Total | Valor Utilizado | Saldo Disponível | % de Saldo Restante
 
-Valor já utilizado
-
-Saldo disponível
-
-Percentual de saldo restante
-
-Essa estrutura permite:
+🔎 Permite:
 
 Monitorar nível de comprometimento financeiro
 
-Identificar riscos de estouro orçamentário
+Identificar risco de estouro orçamentário
 
 Avaliar eficiência na alocação dos recursos
