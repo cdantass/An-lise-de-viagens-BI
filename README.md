@@ -65,6 +65,7 @@ Padronização de campos
 
 <img width="1341" height="752" alt="image" src="https://github.com/user-attachments/assets/67dad2ea-2d14-46c0-88d7-54a289d63da1" />
 
+
 A Home apresenta uma visão executiva e consolidada do cenário financeiro das viagens corporativas, permitindo análise rápida do orçamento, identificação de desvios e suporte direto à tomada de decisão.
 
 📊 Análises Principais
@@ -103,6 +104,7 @@ Permite monitorar comprometimento financeiro, identificar risco de estouro orça
 🗺️ *Página Mapa*
 
 <img width="1323" height="742" alt="image" src="https://github.com/user-attachments/assets/8ce03fc7-84ae-4f05-a7b3-c35b381de644" />
+
 
 A página Mapa mostra, de forma visual e intuitiva, para onde as viagens corporativas estão sendo direcionadas.
 
