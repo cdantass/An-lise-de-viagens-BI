@@ -14,65 +14,34 @@ Navegação entre páginas feita por botões (Home/Mapa).
 🏠 *Página Inicial (HOME)*
 <img width="1341" height="752" alt="image" src="https://github.com/user-attachments/assets/67dad2ea-2d14-46c0-88d7-54a289d63da1" />
 
-A Home concentra uma visão executiva e consolidada do cenário financeiro das viagens corporativas.
-Foi estruturada para permitir:
+A Home apresenta uma visão executiva e consolidada do cenário financeiro das viagens corporativas, permitindo análise rápida do orçamento, identificação de desvios e suporte direto à tomada de decisão.
 
-Análise rápida do orçamento
+📊 Análises Principais
+📌 Total gasto por Área Alocada
 
-Identificação de desvios
+O gráfico de barras mostra a distribuição das despesas com passagens aéreas entre as áreas:
+TI | Atendimento | Marketing | Vendas | Operações | Financeiro | RH | Jurídico | Compras.
+Permite identificar setores com maior consumo, comparar níveis de despesa e detectar possíveis excessos.
 
-Apoio direto à tomada de decisão
+🥧 Despesas por Fonte
 
-📌 Gráfico de Barras — Total gasto por Área Alocada
+O gráfico de pizza apresenta a divisão dos gastos entre:
+Fundo Operacional | Fundo de Projetos | Fundo de Treinamento.
+Facilita a análise do equilíbrio financeiro e da dependência de cada fonte.
 
-Apresenta a distribuição dos gastos com passagens aéreas por área:
+📈 Indicadores Estratégicos (KPIs)
 
-TI | Atendimento | Marketing | Vendas | Operações | Financeiro | RH | Jurídico | Compras
-
-🔎 Permite:
-
-Identificar setores com maior consumo de orçamento
-
-Comparar níveis de despesa entre áreas
-
-Detectar excessos ou padrões fora do esperado
-
-➡ Análise voltada para controle interno e eficiência operacional.
-
-🥧 Gráfico de Pizza — Despesas por Fonte
-
-Mostra a distribuição dos gastos entre os fundos:
-
-Fundo Operacional | Fundo de Projetos | Fundo de Treinamento
-
-🔎 Permite:
-
-Entender qual fundo financia a maior parte das viagens
-
-Avaliar equilíbrio na utilização dos recursos
-
-Identificar dependência excessiva de uma fonte específica
-
-📊 Indicadores Estratégicos (KPIs)
-
-Total Gasto → Soma geral das despesas com passagens
+Total Gasto → Consolidação geral das despesas
 
 Saldo Disponível → Valor restante do orçamento
 
 % de Saldo → Indicador proporcional da saúde financeira
 
-➡ Oferecem uma leitura rápida e objetiva da situação orçamentária.
+Esses indicadores oferecem uma leitura imediata da situação orçamentária.
 
 📋 Tabela Gerencial por Fundo
 
-Para cada fundo, são apresentados:
-
+Para cada fundo são exibidos:
 Orçamento Total | Valor Utilizado | Saldo Disponível | % de Saldo Restante
 
-🔎 Permite:
-
-Monitorar nível de comprometimento financeiro
-
-Identificar risco de estouro orçamentário
-
-Avaliar eficiência na alocação dos recursos
+Permite monitorar comprometimento financeiro, identificar risco de estouro orçamentário e avaliar eficiência na alocação dos recursos.
