@@ -16,6 +16,49 @@ Navegação entre páginas feita por botões (Home/Mapa).
 
 
 ----------------------------------------------------------------------
+
+🐍 Geração da Base de Dados
+
+A base utilizada no dashboard foi criada via script em Python, com o objetivo de simular um cenário corporativo real de despesas com viagens.
+
+O script foi responsável por:
+
+Geração de áreas organizacionais
+
+Definição de fundos orçamentários
+
+Simulação de destinos
+
+Distribuição de valores de passagens
+
+Criação de datas de viagem
+
+Os dados gerados foram exportados para Excel e posteriormente tratados no Power BI.
+----------------------------------------------------------------------
+📁 Fonte de Dados
+
+Os dados utilizados são provenientes de planilha estruturada contendo:
+
+Nome
+
+Área alocada
+
+Destino da viagem
+
+Data da viagem
+
+fundo
+
+Valor da passagem
+
+Situação
+
+Os dados foram tratados no Power Query para:
+
+Ajuste de tipos
+
+Padronização de campos
+----------------------------------------------------------------------
 🏠 *Página Inicial (HOME)*
 
 <img width="1341" height="752" alt="image" src="https://github.com/user-attachments/assets/67dad2ea-2d14-46c0-88d7-54a289d63da1" />
