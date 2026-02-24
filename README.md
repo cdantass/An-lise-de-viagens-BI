@@ -125,4 +125,9 @@ Padronização de campos
 
 Organização para análise
 
+----------------------------------------------------------------------
+
+<img width="1323" height="742" alt="image" src="https://github.com/user-attachments/assets/8ce03fc7-84ae-4f05-a7b3-c35b381de644" />
+
+
 
