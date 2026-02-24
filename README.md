@@ -11,7 +11,7 @@ Navegação entre páginas feita por botões (Home/Mapa).
 🛠️ Tecnologias:
 
 <img width="300" height="100" alt="images" src="https://github.com/user-attachments/assets/dcf4a37c-eada-4a3c-a03c-c90a6f687660" />
-<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/87b8fc60-a799-48b2-bca5-e28b449b6b53" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/87b8fc60-a799-48b2-bca5-e28b449b6b53" />
 
 
 ----------------------------------------------------------------------
