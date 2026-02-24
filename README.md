@@ -1,4 +1,4 @@
-Projeto em Power BI feito para portfólio, Projeto desenvolvido com base em um cenário corporativo real de controle orçamentário para viagens, com foco em análise financeira e suporte à tomada de decisão, e consigo mostrar minha capacidade de transformar dados em informações fáceis de entender.
+Projeto desenvolvido com base em uma demanda corporativa real de controle orçamentário para viagens, com foco em análise financeira e suporte à tomada de decisão, e consigo mostrar minha capacidade de transformar dados em informações fáceis de entender.
 
 Ele serve para acompanhar e comparar gastos com passagens versus orçamento, identificando onde o dinheiro está sendo consumido:
 
